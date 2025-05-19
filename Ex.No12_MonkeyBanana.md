@@ -1,4 +1,4 @@
-# Ex.No: 11  Planning –  Monkey Banana Problem
+# Ex.No: 12  Planning –  Monkey Banana Problem
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212222040049
 ### AIM: 
@@ -87,6 +87,17 @@ Step 7: Stop the program.<br>
 ### Output/Plan:
 
 ![image](https://github.com/user-attachments/assets/f8a53ce8-e190-4dfb-a054-8284aec5bdea)
+
+![image](https://github.com/user-attachments/assets/7f8e597b-b0fc-4f9a-865d-dda8c3bdbc38)
+
+![image](https://github.com/user-attachments/assets/24754b8e-ae4c-4d05-a4ac-55b8d52eb3f7)
+
+![image](https://github.com/user-attachments/assets/39caebf7-24d9-4991-bdfa-e1f83f23f750)
+
+![image](https://github.com/user-attachments/assets/a96c0870-6640-4b9a-ac97-5e19caa5df00)
+
+![image](https://github.com/user-attachments/assets/b65112e2-186e-4e9f-8180-067183ce6ba4)
+
 
 
 ### Result:

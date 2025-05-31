@@ -48,7 +48,7 @@ print("The optimal value is : ", end = "")
 
 ### Output:
 
-![image](https://github.com/user-attachments/assets/8a419ac2-d78a-4c71-bbc1-30150ed8ef55)
+![image](https://github.com/user-attachments/assets/1ba8f85a-410e-47cf-bb33-415eae71af3c)
 
 
 ### Result:

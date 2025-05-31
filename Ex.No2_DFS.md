@@ -1,5 +1,5 @@
 # Ex.No: 2  Implementation of Depth First Search
-### DATE:                                                                            
+### DATE: 15/03/2025                                                                        
 ### REGISTER NUMBER : 212222040049
 ### AIM: 
 To write a python program to implement Depth first Search. 
@@ -35,13 +35,6 @@ def dfs(visited, graph, node):  # Function for DFS
 print("Following is the Depth-First Search")
 dfs(visited, graph, '5')
 ```
-
-
-
-
-
-
-
 
 
 
